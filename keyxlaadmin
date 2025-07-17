@@ -1,5 +1,3 @@
---// PrizzLife, Fixed By Avitxzer/Maythe
-
 Execution_Runtime = tick() 
 PLadmin_Settings = { 
 	DefaultPrefix = "?"; 
@@ -24,7 +22,7 @@ PLadmin_Settings = {
 	WhisperToRanked = true; --Use whisper for outputing commands for ranked players 
 };wait()
 
-Instance.new("Folder", game:GetService("Workspace")).Name = "PLADMIN LOADED SUCCESS"
+Instance.new("Folder", game:GetService("Workspace")).Name = "PLADMIN LOADED SUCCES"
 local PLAdmin = Instance.new("ScreenGui")
 local MainFrame = Instance.new("Frame")
 local ScriptName = Instance.new("TextLabel")
